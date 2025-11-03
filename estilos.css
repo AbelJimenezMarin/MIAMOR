@@ -3,8 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    /*background-color: #F8F5EE; /* Fondo suave */
-    background-image: url(Imagen/azules.jpg);
+    background-image: url(azules.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
